@@ -1,6 +1,6 @@
 # Polysquiggle
 
-This script allows the Bitty Blue "Polysquiggle" feature to be used. It includes the Bluetooth accelerometer and magnetometer services and displays "C" when a Bluetooth connection has been established and "D" when it is closed.
+This script allows the Bitty Blue "Polysquiggle" feature to be used. It includes the Bluetooth accelerometer and magnetometer services and displays "C" when a Bluetooth connection has been established and "D" when it is closed. When your micro:bit first starts, it will prompt you to "TILT THE SCREEN" to calibrate the compass. Follow the on-screen instructions on the micro:bit LED display.
 
 To use this script:
 
