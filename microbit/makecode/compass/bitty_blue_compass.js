@@ -4,4 +4,5 @@ bluetooth.onBluetoothConnected(function () {
 bluetooth.onBluetoothDisconnected(function () {
     basic.showString("D")
 })
-bluetooth.startButtonService()
+input.calibrateCompass()
+bluetooth.startMagnetometerService()
