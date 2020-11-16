@@ -15,3 +15,4 @@ To use this script:
 8. Start Bitty Blue. Scan to detect your micro:bit and select it to connect to it. A "C" should appear on the micro:bit display.
 9. Select the Compass icon.
 10. Hold your micro:bit so it is parallel to the ground and rotate it around a vertical axis. Watch the compass graphic rotate to match the direction your micro:bit is pointing in.
+
